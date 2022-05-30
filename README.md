@@ -12,7 +12,7 @@ Individuel
 
 Un aperçu en vidéo, c'est toujours mieux !
 
-https://youtu.be/L7zHq9IcyqE
+https://youtu.be/bERkm7HGkpY
 
 ### 📌 Consignes du projet :
 
