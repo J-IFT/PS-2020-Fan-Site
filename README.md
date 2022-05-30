@@ -2,15 +2,18 @@
 
 *PS = Projet Scolaire*
 
-📚 Projet Scolaire | Réalisation d'un Fan Site HTML CSS | Octobre 2020
+## 📚 Projet Scolaire | Réalisation d'un Fan Site HTML CSS
 
+Octobre 2020
 Individuel
 
-## 📎 Vidéo de démonstration :
+### 📎 Vidéo de démonstration :
 
+Un aperçu en vidéo, c'est toujours mieux !
 
+https://youtu.be/L7zHq9IcyqE
 
-## 📌 Consignes du projet :
+### 📌 Consignes du projet :
 
 Réalisation d'un Fan Site
 
