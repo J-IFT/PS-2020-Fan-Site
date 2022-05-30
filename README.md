@@ -5,6 +5,7 @@
 ## 📚 Projet Scolaire | Réalisation d'un Fan Site HTML CSS
 
 Octobre 2020
+
 Individuel
 
 ### 📎 Vidéo de démonstration :
