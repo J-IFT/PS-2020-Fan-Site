@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "custom";
+    src: url("font.otf");
+}
+
+body {
+	background: linear-gradient(45deg, #566573,#17202A);
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: white;
+	text-align: justify;
+}
+
+.imagesdenorman {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.img {
+	width: 20%;
+}
+
+.bio {
+	margin: 20px;
+	display: flex;
+	flex-direction: row;
+	border-radius: 15px;
+	background-color: #34495E;
+}
+
+.minibio{
+
+	padding: 20px;
+
+}
+
+.reseaux{
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+}
+
+.succes {
+	margin: 20px;
+	padding: 20px;
+	border-radius: 15px;
+	background-color: #34495E;
+}
+
+.prpave {
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 15px;
+	background-color: #34495E;
+}
+
+.boutons {
+    display: inline-block;
+}
+
+    .boutons a {
+        color: black;
+        float: left;
+        padding: 8px 16px;
+        text-decoration: none;
+        border: 1px solid #ddd;
+        background-color: darkgrey;
+        margin-right: 20px;
+    }
+
+        .boutons a.active {
+            background-color: darkorange;
+            color: white;
+            border: 1px solid darkorange;
+        }
+
+        .boutons a:hover:not(.active) {
+            background-color: #ddd;
+        }
+
+a {
+    text-decoration: none;
+    color: red;
+    text-decoration: underline;
+}
+
+.item{
+	background-color: #283747;
+	border-radius: 10px;
+	padding: 10px;
+	list-style: none;
+}
+
+.primg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.copyright {
+  color: red;
+}
