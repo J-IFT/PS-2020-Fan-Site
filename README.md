@@ -22,7 +22,7 @@ Réaliser un site web en HTML-CSS (sans utiliser de template, ni aucune biblioth
 
 Ce Fan Site devra porter sur le groupe/artiste/auteur/éditeur que vous avez choisi (sobrement appelé "sujet" dans la suite des consignes).
 
-Une archive (ZIP, 7Z ou RAR) contenant les différents fichiers (HTML + CSS + images) est à déposer sur MyLearningBox avant le **Vendredi 23 Octobre à 19H**.
+Une archive (ZIP, 7Z ou RAR) contenant les différents fichiers (HTML + CSS + images) est à déposer sur MyLearningBox avant le Vendredi 23 Octobre à 19H.
 
 Si vous avez des questions, posez-les moi sur Teams (ou par mail) avant le mercredi soir (21 octobre).
 
