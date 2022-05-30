@@ -19,6 +19,7 @@ https://youtu.be/L7zHq9IcyqE
 Réalisation d'un Fan Site
 
 But de l'exercice
+
 Réaliser un site web en HTML-CSS (sans utiliser de template, ni aucune bibliothèque de fonctions ou framework) avec une page principale et quelques pages annexes accessibles depuis la page principale (Par exemple : Une page de détails pour chaque album/livre présent sur la page principale).
 
 Ce Fan Site devra porter sur le groupe/artiste/auteur/éditeur que vous avez choisi (sobrement appelé "sujet" dans la suite des consignes).
