@@ -6,9 +6,9 @@
 
 Individuel
 
-📎 Vidéo de démonstration : ///////
+# 📎 Vidéo de démonstration : ///////
 
-#📌 Consignes du projet :
+# 📌 Consignes du projet :
 
 Réalisation d'un Fan Site
 
