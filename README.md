@@ -64,3 +64,10 @@ Pages annexes
 - Comme indiqué précédemment, les page annexes doivent avoir la même en-tête et le même bas de page
 
 - Le contenu des annexes est un peu plus libre : il faut au moins une image et du texte (si possible avec un paragraphe avec votre avis personnel si le sujet s'y prête). Si votre page annexe correspond aux détails d'un album, vous pouvez rafficher la pochette en plus grand, ajouter la liste des morceaux en dessous et ajouter un paragraphe avec votre avis sur l'album.
+
+### 💻 Applications et langages utilisés :
+
++ HTML5, CSS3
++ Atom
+
+Merci ! 🌸
