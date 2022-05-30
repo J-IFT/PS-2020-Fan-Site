@@ -26,8 +26,6 @@ Ce Fan Site devra porter sur le groupe/artiste/auteur/éditeur que vous avez cho
 
 Une archive (ZIP, 7Z ou RAR) contenant les différents fichiers (HTML + CSS + images) est à déposer sur MyLearningBox avant le Vendredi 23 Octobre à 19H.
 
-Si vous avez des questions, posez-les moi sur Teams (ou par mail) avant le mercredi soir (21 octobre).
-
 Attentes par rapport à cet exercice
 - Le site web doit être créé à partir de rien ("From scratch" comme disent les développeurs ou "Ex nihilo" comme disent les latins) Donc pas d'utilisation de template, ni de Bootstrap, ...
 - Votre site web doit être composé d'au moins 1 page principale et 2 pages annexes (accessibles depuis la page principale)
