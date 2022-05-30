@@ -6,7 +6,9 @@
 
 Individuel
 
-## 📎 Vidéo de démonstration : ///////
+## 📎 Vidéo de démonstration :
+
+
 
 ## 📌 Consignes du projet :
 
